@@ -1,4 +1,4 @@
-# Project Name: ReactorFormer
+# ReactorFormer for multiphysics modeling of chemical reactors
 
 [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](LICENSE)
 
