@@ -68,12 +68,3 @@ This project is licensed under the [MIT License](LICENSE).
 ## 🌐 Open Source Repository
 
 - GitHub: [https://github.com/changhepse/ReactorFormer](https://github.com/changhepse/ReactorFormer)
-
-## 📝 Additional Notes
-
-- This README includes all required elements per the Nature Research Code and Software Submission Checklist.
-- We recommend verifying usability by asking a colleague unfamiliar with the software to follow the README instructions and run the software.
-
----
-
-> This README is based on the Nature Research [Code and Software Submission Checklist](https://www.nature.com/documents/nr-software-policy.pdf), June 2017.
