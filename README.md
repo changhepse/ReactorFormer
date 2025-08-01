@@ -5,7 +5,7 @@
 This repository contains the implementation of **ReactorFormer**, an open framework developed for multiphysics modeling of chemical reactors.
 ## 🔧 System Requirements
 
-- Operating System: Linux / macOS / Windows 10+
+- Operating System: Linux / Windows 10+
 - Python ≥ 3.8
 - Recommended: Anaconda or virtualenv
 - Dependencies (see `requirements.txt`), including:
