@@ -31,6 +31,10 @@ conda activate reactorformer-env
 pip install -r requirements.txt
 ```
 
+## 📘 Demo
+The model generates the nRMSE errors between true and predicted results.
+The training time of the models are around 0.5-2 hours per epoch.
+
 ## 📘 Instructions for Use
 
 ### Generate datasets:
