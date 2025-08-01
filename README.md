@@ -43,7 +43,7 @@ Generate datasets using the files in ./datasets
 ### Load datasets:
 Loading datasets using data_loaders.py
 
-### Run Main Program:
+### Run main program:
 ```bash
 python main.py --config configs/base.yaml
 ```
