@@ -9,10 +9,10 @@ This repository contains the implementation of **ReactorFormer**, an open framew
 - Python ≥ 3.8
 - Recommended: Anaconda or virtualenv
 - Dependencies (see `requirements.txt`), including:
-  - numpy
-  - scipy
-  - matplotlib
+  - transformers
   - torch
+  - scipy
+  - numpy
   - etc.
 
 ## 💻 Installation Guide
